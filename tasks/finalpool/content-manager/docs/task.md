@@ -1,5 +1,5 @@
 # Task: content-manager
 
 ## Description
-Complete the content for content-manager
+Complete the implementation for content-manager
 

@@ -1,1 +1,1 @@
-Initial workspace security-scanner
+Initial workspace for security-scanner
