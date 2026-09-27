@@ -1,0 +1,1 @@
+Create a media organizer for sorting photos and videos.

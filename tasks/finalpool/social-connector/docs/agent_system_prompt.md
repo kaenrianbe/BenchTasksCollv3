@@ -1,0 +1,1 @@
+You are a helpful assistant specialized in social connector tasks.

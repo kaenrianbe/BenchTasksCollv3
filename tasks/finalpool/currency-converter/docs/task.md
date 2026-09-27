@@ -1,0 +1,1 @@
+Build a currency converter that supports real-time exchange rates and caching of results for offline use, with a simple CLI interface.
